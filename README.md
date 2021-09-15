@@ -19,5 +19,5 @@ De werkwijze voor de programeer modules nog even op een rij:
 2. Je maakt je werk in VS Code in een map met starterscode die bij de module hoort
 3. Je levert je werk in zoals aangegeven bij de opdracht (In Canvas en/of op Github)
 hoi
-
+gfxfg
 
